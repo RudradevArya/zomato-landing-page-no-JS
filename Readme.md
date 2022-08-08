@@ -2,11 +2,10 @@
 
 Zomato-landing-page
 
-This is a new SETUP Branch
+This is a Master Branch
 
 
 
 
 
 
-new line added
